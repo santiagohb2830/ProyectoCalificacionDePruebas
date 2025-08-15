@@ -27,14 +27,5 @@ En esta etapa se están levantando requisitos, definiendo historias de usuario y
 - **Auditor**: consulta historiales y resultados en modo lectura.
 
 
-## 📊 Estado de desarrollo
-| Fase                      | Progreso |
-|---------------------------|----------|
-| Documentación inicial     | 🟩 En curso |
-| Prototipado visual        | ⬜ No iniciado |
-| Desarrollo MVP            | ⬜ No iniciado |
-| Pruebas de validación     | ⬜ No iniciado |
-
-
 
 
